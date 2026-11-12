@@ -25,10 +25,6 @@
 
 ---
 
-##### ẢNH MÀN HÌNH THỰC THI KHI MUỐN XÓA THIẾT BỊ
-
-![Giao diện thực thi khi muốn xóa thiết bị](<./screenshots/execution_result_bai1 (2).png>)
-
 
 
 #### ẢNH MÀN HÌNH KIỂM TRA LỖI
